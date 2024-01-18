@@ -13,7 +13,7 @@
                 "logo":"abbvie.svg"
             },
             {
-                "tagName":"BOSTON PRIVATE BANK",
+                "tagName":"BOSTON PRIVATE - BANK",
                 "title":"BOSTON PRIVATE BANK AN SVB COMPANY",
                 "skills":"React Js, CLI, Typescript, HTML 5, SCSS, Bootstrap 4, JSON, JavaScript, and Visual studio code.",
                 "description":"In the Inventory application project the requirement of the client is to integrate all the information of the servers, ESXi host and vCenters which are on the datacenter and cloud servers which are in the azure cloud in a single dashboard which is updated 2 time daily. We achieved it by getting the data of data center devices by using Power-shell, Power cli and a separate set up to get the data from the Azure cloud and formatted them using power-shell and stored them as json files in the web server and using react and developed the application. Which will have all the information.",
