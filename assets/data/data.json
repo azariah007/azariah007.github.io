@@ -4,7 +4,7 @@
             {
                 "tagName":"AbbVie",
                 "title":"AbbVie - Sypher",
-                "skills":"React JS, JavaScript, Chartjs, Vuetify, HTML 5, SCSS, JSON,and Visual studio code.",
+                "skills":"React JS, JavaScript, Chartjs, MUI, HTML 5, SCSS, JSON,and Visual studio code.",
                 "description":"The Sypher application was used by the client to visualize all the current data about their products and all their metrics and their performance. The application uses Salesforce as its back end and React JS as its front end. The front-end consist of multiple reusable components which were developed to get the data from back end and use visualization library like Chartjs to show all the details as per the requirements if the client.",
                 "responsiblities":"UI development, involved in agile process, and daily Scrums to discuss the application development experience to deliver in time. Developed various components for the frontend using React JS.",
                 "size":"4 Members",
@@ -28,7 +28,7 @@
                 "title":"INFOSYS LEX– Mercedes-Benz (DIAMLER) LEARNING CHANNEL",
                 "skills":"HTML 5, CSS, Bootstrap 4 and Visual studio code.",
                 "description":"In the Infosys Lex - Mercedes-Benz (Daimler) Learning Channel project we were building a channel page for a specific client. Infosys Lex is an internal Learning platform. Which contains courses and trainings for the employees. In lex there are different channels of different clients. We built the learning Channel for the Mercedes-Benz (Daimler) using HTML for the structure CSS and Bootstrap for Styling and basic JavaScript for basic functions in the channel.",
-                "responsiblities":"UI development, involved in agile process, and daily Scrums to discuss the application development experience to deliver in time. Developed various components for the frontend using Angular.",
+                "responsiblities":"UI development, involved in agile process, and daily Scrums to discuss the application development experience to deliver in time. Developed various components for the frontend using React.",
                 "size":"2 Members",
                 "location":"Chennai",
                 "iconEnable":true,
